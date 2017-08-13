@@ -6,8 +6,15 @@
 - Sample Projects to work on while learning
 - Links to project on some topics highlighted.
 
+## Requirements
+- PHP 5.6 
+- Text Editor
+- A symfony heart
 
-
+## Main Content
+- 1. Understanding Symfony [http://symfony.com/what-is-symfony](http://symfony.com/what-is-symfony)
+- 2. Swift and Seamless Installation [http://symfony.com/doc/current/setup.html](http://symfony.com/doc/current/setup.html)
+- 3. Basic Video Tutorial on Getting started []() 
 
 
 ## Contribute
